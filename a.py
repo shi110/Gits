@@ -5,3 +5,5 @@
 # @File    : a.py
 # @Software: PyCharm Community Edition
 print '你好!'
+
+print '中国！'
