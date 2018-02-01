@@ -9,3 +9,5 @@ print '你好!'
 print '中国！'
 
 print 'admin'
+
+print 'python'
